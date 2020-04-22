@@ -5,7 +5,7 @@ __consumer_offsets 30 0
 __consumer_offsets 8 0
 __consumer_offsets 21 0
 __consumer_offsets 4 0
-first_topic 2 17
+first_topic 2 18
 __consumer_offsets 27 0
 __consumer_offsets 7 0
 __consumer_offsets 9 0
@@ -20,16 +20,16 @@ __consumer_offsets 49 0
 __consumer_offsets 47 0
 __consumer_offsets 16 0
 __consumer_offsets 28 0
-first_topic 1 11
+first_topic 1 12
 __consumer_offsets 31 0
 __consumer_offsets 36 0
 __consumer_offsets 42 0
 __consumer_offsets 3 0
-__consumer_offsets 18 316
+__consumer_offsets 18 499
 __consumer_offsets 37 0
 __consumer_offsets 15 0
 __consumer_offsets 24 0
-first_topic 0 10
+first_topic 0 11
 __consumer_offsets 38 0
 __consumer_offsets 17 3
 __consumer_offsets 48 0
@@ -44,7 +44,7 @@ __consumer_offsets 20 0
 __consumer_offsets 0 0
 __consumer_offsets 44 0
 __consumer_offsets 39 0
-__consumer_offsets 12 293
+__consumer_offsets 12 470
 __consumer_offsets 45 0
 __consumer_offsets 1 0
 __consumer_offsets 5 0
@@ -52,5 +52,5 @@ __consumer_offsets 26 0
 __consumer_offsets 29 0
 __consumer_offsets 34 0
 __consumer_offsets 10 0
-__consumer_offsets 32 0
+__consumer_offsets 32 50
 __consumer_offsets 40 0
